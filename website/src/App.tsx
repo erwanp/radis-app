@@ -77,7 +77,7 @@ const InfoPopover = () => {
           <a href="https://radis.github.io/radis-lab/" rel="noreferrer">
             Radis-Lab
           </a>{" "}
-          with precomputed databases and an online Jupyter environment.
+          with preconfigured HITRAN/HITEMP databases and an online Jupyter environment.
         </Typography>
       </Popover>
     </div>
